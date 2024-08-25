@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "154831071330",
+    "project_id": "espresso-testing-lab-practice",
+    "storage_bucket": "espresso-testing-lab-practice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154831071330:android:47c4abe82ccd6e19c7093b",
+        "android_client_info": {
+          "package_name": "com.example.profile_picture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMd4LmSc6BjbJYxOjUC6pY99BShgfchJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154831071330:android:52a85a94b050954dc7093b",
+        "android_client_info": {
+          "package_name": "com.zorona.rayzi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMd4LmSc6BjbJYxOjUC6pY99BShgfchJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
